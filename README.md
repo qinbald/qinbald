@@ -4,54 +4,61 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=680&lines=Membangun+aplikasi+web+skalabel+%26+arsitektur+backend+andal.;Merancang+skema+PostgreSQL+%26+deployment+cloud-native.;Mengembangkan+solusi+digital+untuk+komunitas+%26+UMKM." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+scalable+web+apps+%26+clean+backend+architectures.;Designing+PostgreSQL+schemas+%26+cloud-native+deployments.;Crafting+digital+solutions+for+communities+%26+UMKM" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://www.instagram.com/stevan.immanuel?lqvp=bTVoYnAybmh5ZHN4" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  <a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=818CF8" />
   </a>
-  <a href="mailto:stevanimmanuel09@gmail.com">
+  <a href="mailto:EMAIL_KAMU@gmail.com">
     <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
+  </a>
+  <a href="https://PORTFOLIO_KAMU.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=E2E8F0" />
   </a>
 </p>
 
 ---
 
-### `>_` About & Focus
+### Overview
 
-```json
-{
-  "name": "Stevan Immanuel Simbolon",
-  "role": "Informatics Student & Full-Stack Developer",
-  "focus": ["Backend Engineering", "Database Architecture", "Cloud Deployment"],
-  "current_stack": ["Next.js", "Laravel", "PostgreSQL", "Docker", "Kotlin"],
-  "philosophy": "Clean architecture, reliable data, zero bloat."
-}
-```
+Mahasiswa Teknik Informatika yang berfokus pada **Full-Stack Web Development**, **Backend Engineering**, dan **Database Architecture**. Mengutamakan arsitektur yang bersih, keandalan data di **PostgreSQL**, serta solusi digital yang praktis untuk komunitas dan UMKM.
 
-<details>
-  <summary><b>✨ Klik untuk melihat Proyek Unggulan (Featured Works)</b></summary>
+| Fokus Utama | Ekosistem Andalan | Sedang Dikerjakan |
+| :--- | :--- | :--- |
+| Backend & API Design | `Next.js` · `Laravel 11` · `PostgreSQL` | Sistem Web UMKM & Komunitas |
+| Database & Cloud | `Drizzle` · `Docker` · `Vercel` | Aplikasi Android `Kotlin` |
+
+<br/>
+
+<details open>
+  <summary><b>Featured Works</b></summary>
   <br/>
   <table>
     <tr>
-      <td width="50%">
-        <b>📊 Posyandu Digital (E-KMS)</b><br/>
+      <td width="50%" valign="top">
+        <b>Posyandu Digital (E-KMS)</b><br/>
         Sistem pemantauan tumbuh kembang anak berbasis kurva WHO z-score, penjadwalan otomatis, dan ekspor laporan PDF.<br/>
         <sub><code>Next.js</code> <code>TypeScript</code> <code>Drizzle ORM</code> <code>PostgreSQL</code></sub>
       </td>
-      <td width="50%">
-        <b>🏛️ Jelajah Sumatera (WikiBudaya)</b><br/>
+      <td width="50%" valign="top">
+        <b>Jelajah Sumatera (WikiBudaya)</b><br/>
         Platform ensiklopedia budaya Sumatera dengan arsitektur decoupled monorepo, autentikasi Sanctum, dan sistem moderasi.<br/>
         <sub><code>Laravel 11</code> <code>React</code> <code>REST API</code> <code>PostgreSQL</code></sub>
       </td>
     </tr>
     <tr>
-      <td width="50%">
-        <b>⚡ Presensi Pemira KM ITERA</b><br/>
+      <td width="50%" valign="top">
+        <b>Presensi Pemira KM ITERA</b><br/>
         Aplikasi presensi pemilihan mahasiswa real-time dengan pemindaian barcode KTM, pelacakan kuorum, dan validasi anti-duplikasi.<br/>
         <sub><code>Next.js</code> <code>Tailwind CSS</code> <code>Prisma</code></sub>
+      </td>
+      <td width="50%" valign="top">
+        <b>Mobile & Cloud Systems</b><br/>
+        Pengembangan aplikasi Android offline-first berbasis Kotlin serta layanan web dan otomatisasi untuk UMKM.<br/>
+        <sub><code>Kotlin</code> <code>SQLDelight</code> <code>Docker</code> <code>Vercel</code></sub>
       </td>
     </tr>
   </table>
@@ -59,16 +66,16 @@
 
 ---
 
-### `⚡` Tech Stack
+### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,py,nextjs,react,laravel,nodejs,tailwind&theme=dark&perline=10" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,docker,git,vercel,vscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,py,kotlin,nextjs,react,laravel,nodejs,tailwind&theme=dark&perline=10" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,docker,linux,git,vercel,vscode&theme=dark&perline=8" />
 </div>
 
 ---
 
-### `📈` Analytics & Activity
+### Analytics & Activity
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=qinbald&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=38BDF8&text_color=CBD5E1&ring_color=818CF8" />
@@ -83,7 +90,7 @@
 
 ---
 
-### `🐍` Contribution Snake
+### Contribution Graph
 
 <div align="center">
   <picture>
