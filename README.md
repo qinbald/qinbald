@@ -4,16 +4,19 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=680&lines=Membangun+aplikasi+web+skalabel+%26+arsitektur+backend+andal.;Merancang+skema+PostgreSQL+%26+deployment+cloud-native.;Mengembangkan+solusi+digital+untuk+komunitas+%26+UMKM." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+scalable+web+apps+%26+clean+backend+architectures.;Designing+PostgreSQL+schemas+%26+cloud-native+deployments.;Crafting+digital+solutions+for+communities+%26+UMKM" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://www.instagram.com/stevan.immanuel?lqvp=bTVoYnAybmh5ZHN4" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  <a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=818CF8" />
   </a>
-  <a href="mailto:stevanimmanuel09@gmail.com">
+  <a href="mailto:EMAIL_KAMU@gmail.com">
     <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
+  </a>
+  <a href="https://PORTFOLIO_KAMU.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=E2E8F0" />
   </a>
 </p>
 
@@ -24,6 +27,17 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,php,py,kotlin,nextjs,react,laravel,nodejs,tailwind&theme=dark&perline=10" /><br/>
   <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,docker,linux,git,vercel,vscode&theme=dark&perline=8" />
+</div>
+
+---
+
+### Partners
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Claude-161B22?style=for-the-badge&logo=anthropic&logoColor=D97706" />
+  <img src="https://img.shields.io/badge/Gemini-161B22?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" />
+  <img src="https://img.shields.io/badge/ChatGPT-161B22?style=for-the-badge&logo=openai&logoColor=74AA9C" />
+  <img src="https://img.shields.io/badge/DeepSeek-161B22?style=for-the-badge&logo=deepseek&logoColor=4D6BFE" />
 </div>
 
 ---
