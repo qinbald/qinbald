@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/stevan.immanuel?lqvp=bTVoYnAybmh5ZHN4" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-161B22?style=for-the-badge&logo=instagram&logoColor=818CF8" />
+    <img src="https://img.shields.io/badge/instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
   <a href="mailto:stevanimmanuel09@gmail.com">
     <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
