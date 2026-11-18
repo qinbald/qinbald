@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+scalable+web+apps+%26+clean+backend+architectures.;Designing+PostgreSQL+schemas+%26+cloud-native+deployments.;Crafting+digital+solutions+for+communities+%26+UMKM" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=680&lines=Membangun+aplikasi+web+skalabel+%26+arsitektur+backend+andal.;Merancang+skema+PostgreSQL+%26+deployment+cloud-native.;Mengembangkan+solusi+digital+untuk+komunitas+%26+UMKM." alt="Typing SVG" />
   </a>
 </div>
 
