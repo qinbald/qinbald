@@ -9,15 +9,11 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=818CF8" />
+  <a href="https://www.instagram.com/stevan.immanuel?lqvp=bTVoYnAybmh5ZHN4" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-161B22?style=for-the-badge&logo=instagram&logoColor=818CF8" />
   </a>
-  <a href="mailto:EMAIL_KAMU@gmail.com">
+  <a href="mailto:stevanimmanuel09@gmail.com">
     <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
-  </a>
-  <a href="https://PORTFOLIO_KAMU.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=E2E8F0" />
-  </a>
 </p>
 
 ---
