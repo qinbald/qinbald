@@ -22,50 +22,6 @@
 
 ---
 
-### Overview
-
-Mahasiswa Teknik Informatika yang berfokus pada **Full-Stack Web Development**, **Backend Engineering**, dan **Database Architecture**. Mengutamakan arsitektur yang bersih, keandalan data di **PostgreSQL**, serta solusi digital yang praktis untuk komunitas dan UMKM.
-
-| Fokus Utama | Ekosistem Andalan | Sedang Dikerjakan |
-| :--- | :--- | :--- |
-| Backend & API Design | `Next.js` · `Laravel 11` · `PostgreSQL` | Sistem Web UMKM & Komunitas |
-| Database & Cloud | `Drizzle` · `Docker` · `Vercel` | Aplikasi Android `Kotlin` |
-
-<br/>
-
-<details open>
-  <summary><b>Featured Works</b></summary>
-  <br/>
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <b>Posyandu Digital (E-KMS)</b><br/>
-        Sistem pemantauan tumbuh kembang anak berbasis kurva WHO z-score, penjadwalan otomatis, dan ekspor laporan PDF.<br/>
-        <sub><code>Next.js</code> <code>TypeScript</code> <code>Drizzle ORM</code> <code>PostgreSQL</code></sub>
-      </td>
-      <td width="50%" valign="top">
-        <b>Jelajah Sumatera (WikiBudaya)</b><br/>
-        Platform ensiklopedia budaya Sumatera dengan arsitektur decoupled monorepo, autentikasi Sanctum, dan sistem moderasi.<br/>
-        <sub><code>Laravel 11</code> <code>React</code> <code>REST API</code> <code>PostgreSQL</code></sub>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <b>Presensi Pemira KM ITERA</b><br/>
-        Aplikasi presensi pemilihan mahasiswa real-time dengan pemindaian barcode KTM, pelacakan kuorum, dan validasi anti-duplikasi.<br/>
-        <sub><code>Next.js</code> <code>Tailwind CSS</code> <code>Prisma</code></sub>
-      </td>
-      <td width="50%" valign="top">
-        <b>Mobile & Cloud Systems</b><br/>
-        Pengembangan aplikasi Android offline-first berbasis Kotlin serta layanan web dan otomatisasi untuk UMKM.<br/>
-        <sub><code>Kotlin</code> <code>SQLDelight</code> <code>Docker</code> <code>Vercel</code></sub>
-      </td>
-    </tr>
-  </table>
-</details>
-
----
-
 ### Tech Stack
 
 <div align="center">
