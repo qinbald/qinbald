@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%" height="100%">
+  <defs>
+    <clipPath id="outer-clip">
+      <rect x="0" y="0" width="900" height="200" rx="16" />
+    </clipPath>
+    <clipPath id="inner-clip">
+      <rect x="2" y="2" width="896" height="196" rx="14" />
+    </clipPath>
+
+    <linearGradient id="border-beam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="0" />
+      <stop offset="40%" stop-color="#818CF8" stop-opacity="0.9" />
+      <stop offset="60%" stop-color="#38BDF8" stop-opacity="1" />
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0" />
+    </linearGradient>
+
+    <filter id="aurora-blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="55" />
+    </filter>
+
+    <pattern id="subtle-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#94A3B8" stroke-opacity="0.06" stroke-width="1" />
+    </pattern>
+
+    <style>
+      .spin-border {
+        animation: rotate 7s linear infinite;
+      }
+      .spin-aurora {
+        animation: rotate 14s linear infinite reverse;
+      }
+      .title {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-size: 36px;
+        font-weight: 700;
+        fill: #E2E8F0;
+        letter-spacing: -0.5px;
+      }
+      .subtitle {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+        font-size: 15px;
+        font-weight: 500;
+        fill: #94A3B8;
+        letter-spacing: 0.4px;
+      }
+      @keyframes rotate {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#outer-clip)">
+    <rect width="900" height="200" fill="#1E293B" />
+    <g transform="translate(450, 100)">
+      <g class="spin-border">
+        <rect x="-550" y="-550" width="1100" height="1100" fill="url(#border-beam)" />
+      </g>
+    </g>
+    <rect x="1.5" y="1.5" width="897" height="197" rx="14.5" fill="#0D1117" />
+  </g>
+
+  <g clip-path="url(#inner-clip)">
+    <rect x="2" y="2" width="896" height="196" fill="url(#subtle-grid)" />
+    <g filter="url(#aurora-blur)" opacity="0.35">
+      <g transform="translate(450, 100)">
+        <g class="spin-aurora">
+          <circle cx="-190" cy="-25" r="140" fill="#6366F1" />
+          <circle cx="190" cy="35" r="130" fill="#38BDF8" />
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <text x="450" y="92" text-anchor="middle" class="title">Stevan Immanuel Simbolon</text>
+  <text x="450" y="128" text-anchor="middle" class="subtitle">Full-Stack  •  Backend Engineering  •  Database Architecture</text>
+</svg>

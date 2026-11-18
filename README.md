@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1B4B,100:0F172A&height=180&section=header&text=Stevan%20Immanuel%20Simbolon&fontSize=36&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Backend%20Engineering%20%E2%80%A2%20Database%20Architecture&descAlignY=60&descColor=94A3B8&descSize=16" />
+  <img width="100%" src="./assets/header.svg" alt="Stevan Immanuel Simbolon" />
 </div>
 
 <div align="center">
@@ -14,9 +14,10 @@
   </a>
   <a href="mailto:stevanimmanuel09@gmail.com">
     <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
+  </a>
 </p>
 
----
+<img width="100%" src="./assets/divider.svg" />
 
 ### Tech Stack
 
@@ -25,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,docker,git,vercel,vscode&theme=dark&perline=8" />
 </div>
 
----
+<img width="100%" src="./assets/divider.svg" />
 
 ### Partners
 
@@ -36,7 +37,7 @@
   <img src="https://img.shields.io/badge/DeepSeek-161B22?style=for-the-badge&logo=deepseek&logoColor=4D6BFE" />
 </div>
 
----
+<img width="100%" src="./assets/divider.svg" />
 
 ### Analytics & Activity
 
@@ -51,7 +52,7 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=qinbald&bg_color=0D1117&color=94A3B8&line=818CF8&point=38BDF8&area=true&area_color=1E1B4B&hide_border=true&custom_title=Contribution%20Pulse" />
 </div>
 
----
+<img width="100%" src="./assets/divider.svg" />
 
 ### Contribution Graph
 
