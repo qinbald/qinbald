@@ -4,19 +4,16 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Building+scalable+web+apps+%26+clean+backend+architectures.;Designing+PostgreSQL+schemas+%26+cloud-native+deployments.;Crafting+digital+solutions+for+communities+%26+UMKM" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=680&lines=Membangun+aplikasi+web+skalabel+%26+arsitektur+backend+andal.;Merancang+skema+PostgreSQL+%26+deployment+cloud-native.;Mengembangkan+solusi+digital+untuk+komunitas+%26+UMKM." alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=818CF8" />
+  <a href="https://www.instagram.com/stevan.immanuel?lqvp=bTVoYnAybmh5ZHN4" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
-  <a href="mailto:EMAIL_KAMU@gmail.com">
+  <a href="mailto:stevanimmanuel09@gmail.com">
     <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
-  </a>
-  <a href="https://PORTFOLIO_KAMU.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=E2E8F0" />
   </a>
 </p>
 
