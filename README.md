@@ -9,14 +9,11 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="_blank">
+  <a href="https://www.instagram.com/stevan.immanuel?lqvp=bTVoYnAybmh5ZHN4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=818CF8" />
   </a>
-  <a href="mailto:EMAIL_KAMU@gmail.com">
+  <a href="mailto:stevanimmanuel09@gmail.com">
     <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
-  </a>
-  <a href="https://PORTFOLIO_KAMU.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=E2E8F0" />
   </a>
 </p>
 
@@ -56,11 +53,6 @@
         Aplikasi presensi pemilihan mahasiswa real-time dengan pemindaian barcode KTM, pelacakan kuorum, dan validasi anti-duplikasi.<br/>
         <sub><code>Next.js</code> <code>Tailwind CSS</code> <code>Prisma</code></sub>
       </td>
-      <td width="50%">
-        <b>📱 Mobile & Cloud Systems</b><br/>
-        Pengembangan aplikasi Android offline-first berbasis Kotlin serta layanan web dan otomatisasi untuk UMKM.<br/>
-        <sub><code>Kotlin</code> <code>SQLDelight</code> <code>Docker</code> <code>Vercel</code></sub>
-      </td>
     </tr>
   </table>
 </details>
@@ -70,8 +62,8 @@
 ### `⚡` Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,py,kotlin,nextjs,react,laravel,nodejs,tailwind&theme=dark&perline=10" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,docker,linux,git,vercel,vscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,js,php,py,nextjs,react,laravel,nodejs,tailwind&theme=dark&perline=10" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,docker,git,vercel,vscode&theme=dark&perline=8" />
 </div>
 
 ---
