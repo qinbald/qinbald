@@ -22,7 +22,7 @@
 ### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,py,nextjs,react,laravel,nodejs,tailwind&theme=dark&perline=10" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,py,js,php,nextjs,react,laravel,nodejs,tailwind&theme=dark&perline=10" /><br/>
   <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,docker,git,vercel,vscode&theme=dark&perline=8" />
 </div>
 
